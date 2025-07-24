@@ -220,9 +220,6 @@ input:hover{
 .card:hover{
     background-color:#d26f35;
 }
-.sec1:hover{
-    background-color: grey;
-}
 .size{
     font-weight: 700;
     font-size: 45px;
