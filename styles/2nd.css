@@ -4,7 +4,6 @@
 }
 
 /* Header1 */
-
 header{
     margin-top: 50px;
     
@@ -220,6 +219,9 @@ input:hover{
 }
 .card:hover{
     background-color:#d26f35;
+}
+.sec1:hover{
+    background-color: grey;
 }
 .size{
     font-weight: 700;
