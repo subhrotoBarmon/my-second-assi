@@ -213,7 +213,13 @@ footer a{
     color: aliceblue;
     width: 180px;
     padding: 10px 10px;
-
+}
+input:hover{
+    background-color: aqua;
+    color: #E95A08;
+}
+.card:hover{
+    background-color:#d26f35;
 }
 .size{
     font-weight: 700;
